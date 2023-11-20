@@ -15,7 +15,7 @@ the files (focusing on the years 2010 to 2017), stratifying by the states with t
 		health legislation.
   
 	2.	Much of the legislation that passed had no significant correlation in lowering deaths in 
-		each state.  In fact, some states saw and increase of deaths in certain health categories.
+		each state.  In fact, some states saw an increase of deaths in certain health categories.
   
 	3.	Due to the many limitations of the data, there was no significant correlation in legislation 
 		and decreasing death rates. For most of the causes, the p-value was > 0.05. 
