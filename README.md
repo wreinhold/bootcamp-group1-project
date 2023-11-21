@@ -28,7 +28,7 @@ causes of death each year?
 
 Results: There is very little statistical significance between health and nutritional legislation and decreasing death rate between the years 2010 to 2017. This is illustrated in the graphs created for each health cause and in the calculated anova values.
 
-3.	Does more legislation make a difference?
+2.	Does more legislation make a difference?
 
 Due to an enormous about of limitations in the data, and based on our findings with the data 
 provided, there were no signification findings to show that more legislation made any difference 
