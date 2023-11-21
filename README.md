@@ -37,8 +37,13 @@ in decreasing deaths.
 
 Charts and graphs that illustrate our findings can be found in the resource folder.
 
+
 Resources:
+
 Legislation Data - https://catalog.Data.Gov/dataset/cdc-nutrition-physical-activity-and-obesity-legislation
+
 Death Data - https://catalog.Data.Gov/dataset/nchs-leading-causes-of-death-united-states
+
 Population Data - https://www2.census.gov/programs-surveys/popest/datasets/2010-2017/state/asrh/
+
 Injury Prevention data - https://www.cdc.gov/injury/wisqars/animated-leading-causes.html#:~:text=The%20leading%20causes%20of%20death,unintentional%20drowning%2C%20and%20unintentional%20falls
